@@ -119,8 +119,7 @@ Sau khi đăng nhập thành công:
 
 ## 🧑‍💻 Tác giả
 
-
-👤 [Phạm Công Trường](https://github.com/SaiCTruong)
+Phạm Công Trường ([@SaiCTruong](https://github.com/SaiCTruong))
 
 
 ---
